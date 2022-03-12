@@ -24,7 +24,6 @@ public class PaperFold
 {
     int sequenceIteration;
     ArrayList<Integer> sequence;
-    ArrayList<Integer> nextSequence;
     public PaperFold()
     {
         sequence = new ArrayList();
