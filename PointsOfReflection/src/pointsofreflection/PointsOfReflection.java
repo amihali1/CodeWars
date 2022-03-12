@@ -37,8 +37,6 @@ public class PointsOfReflection
         var xDist = qX - pX;
         var yDist = qY - pY;
 
-
-
         return new int[]{qX + xDist, qY + yDist};
   }
     
